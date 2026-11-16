@@ -1,0 +1,32 @@
+{
+ "name": "沉思錄",
+ "short_name": "沉思錄",
+ "lang": "zh-Hant",
+ "description": "馬可・奧理略《沉思錄》十二卷，一次讀一則，每則附閱讀理解。",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#E2E0DA",
+ "theme_color": "#E2E0DA",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
